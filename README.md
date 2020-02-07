@@ -7,7 +7,7 @@ Download zip file
 
 Unzip file and move project folder to a newly created directory
 
-The next step is to download all the node packages but before ths can work, make sure that nodejs in installed.
+The next step is to download all the node packages but before this can work, make sure that nodejs in installed.
 
 Then from the terminal, cd into project directory and type npm install
 
